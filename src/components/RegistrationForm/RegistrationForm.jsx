@@ -39,11 +39,3 @@ export default function RegistrationForm() {
     </Formik>
   );
 }
-
-// Kira888
-// kiryan@mail.com
-// kiryan@mail.com
-
-// Kira
-// kira2@mail.com
-// kira2@mail.com
